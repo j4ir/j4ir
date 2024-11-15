@@ -35,7 +35,10 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=j4ir&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+<p>
 
+
+</p>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -45,9 +48,6 @@
 
 </p>
 
- 
-<div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div>
+
   <picture> 
   <source
